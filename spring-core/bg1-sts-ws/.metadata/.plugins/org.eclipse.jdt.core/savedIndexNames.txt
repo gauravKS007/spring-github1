@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Admin\Desktop\bG1\bg1-sts-ws\.metadata\.plugins\org.eclipse.jdt.core
+1865272566.index
+3135429276.index
+2331800780.index
+3932809682.index
+1315002880.index
+2210375263.index
+2281025074.index
+3394321311.index
